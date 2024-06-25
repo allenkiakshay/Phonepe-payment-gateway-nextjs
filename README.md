@@ -1,9 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ### Create .env File
+```bash
 NEXT_API_MERCHANT_ID = "Merchant Id"
 NEXT_API_MERCHANT_KEY = "API_KEY"
 NEXT_API_MERCHANT_VERSION = "1"
+```
 
 ## Getting Started
 
